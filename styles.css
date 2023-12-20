@@ -6,6 +6,7 @@ p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.ingredients {
+.ingredients,
+.steps {
     background-color: lightgrey;
 }
