@@ -1,0 +1,11 @@
+
+h1,
+h2,
+li,
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ingredients {
+    background-color: lightgrey;
+}
